@@ -35,7 +35,7 @@ let calculator_buttons = [{
     {
         name: "square-root",
         symbol: "√",
-        formula: "Math.sqrt",
+        formula: "Math.sqrt(",
         type: "math_function"
     },
     {
